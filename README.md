@@ -22,4 +22,37 @@ Example: In a blog post wireframe, the main article text might be centered, with
 
 Functionality highlights interactive elements and how they will work within the design, focusing on user actions and interface behavior.
 
-Example: A login wireframe might include input fields for email and password, along with a Submit button, showing where users interact and how the system responds.
+Example: A login wireframe might include input fields for email and password, along with a Submit button, showing where users interact and how the system responds. 
+“Types of Wireframes”
+Low-Fidelity Wireframes
+
+Description:
+Low-fidelity wireframes are simple, rough sketches that outline the basic structure and layout of a design. They usually use simple shapes, lines, and placeholders (like boxes and circles) to represent elements such as text, images, or buttons. These wireframes focus on function and structure, not on visual details.
+
+Purpose and Use:
+
+Used in the early stages of the design process.
+
+Help brainstorm ideas, explore different layouts, and communicate initial concepts.
+
+Encourage quick feedback and iteration since they are easy and inexpensive to modify.
+
+Example:
+A hand-drawn sketch showing a web page with a header, navigation bar, main content area, and footer — without colors, images, or specific fonts.
+
+High-Fidelity Wireframes
+
+Description:
+High-fidelity wireframes are more detailed and refined digital versions that closely resemble the final product. They include accurate spacing, typography, images, colors, and interactive elements, providing a realistic preview of the user interface.
+
+Purpose and Use:
+
+Used in the later stages of the design process.
+
+Help test usability, refine user interactions, and prepare for the visual design phase.
+
+Useful for stakeholder presentations and developer handoffs, as they show how the final product will look and function.
+
+Example:
+A digital wireframe created in tools like Figma or Sketch, showing real text content, color schemes, and clickable buttons to simulate navigation.
+The type of wireframe dispalyed in https://savanna.alxafrica.com/rltoken/HnTbrzrJX1IfPIxugo8Uvw is a High-fidelity wireframes.
